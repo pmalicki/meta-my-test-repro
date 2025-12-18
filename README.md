@@ -1,1 +1,1 @@
-# Meta - Portfolio Project for Little Lemon Restaurant
+# Piotr Malicki - Meta Portfolio Project for Little Lemon Restaurant
