@@ -1,1 +1,1 @@
-# Meta Sandbox Project
+# Meta - Portfolio Project for Little Lemon Restaurant
